@@ -12,3 +12,6 @@ Completed user stories:
  * [x] Required: User can add a new item to the todo list.
  * [x] Required: User can remove an item from the todo list.
  
+Walkthrough of all user stories:
+
+![Video Walkthrough](todo.gif)
