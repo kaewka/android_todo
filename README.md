@@ -5,9 +5,6 @@ This is an Android todo application.
 
 Time spent: 2 hours spent in total
 
-Completed user stories:
-
- * [x] Required: Time spent: 5 hours spent in total
 
 Completed user stories:
 
