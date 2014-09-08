@@ -14,6 +14,7 @@ Completed user stories:
 
  
 Walkthrough of all user stories:
+
 ![Video Walkthrough](todo.gif)
 
 
