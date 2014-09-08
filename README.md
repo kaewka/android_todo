@@ -15,8 +15,7 @@ Completed user stories:
 
  
 Walkthrough of all user stories:
-
-
+![Video Walkthrough](tip.gif)
 
 
 
